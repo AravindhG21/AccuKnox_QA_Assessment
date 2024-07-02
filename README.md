@@ -1,4 +1,4 @@
-Deploying Node.js services to a local Kubernetes cluster such as Minikube or Kind involves several steps. Here’s a comprehensive guide to help you get started:
+Deploying services to a local Kubernetes cluster such as Minikube involves several steps.
 
 **Prerequisites**
 - Install Docker desktopo
